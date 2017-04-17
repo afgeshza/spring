@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Start
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: trainee
+Implementation-Vendor-Id: com.mitrais.spring
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/Start/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
